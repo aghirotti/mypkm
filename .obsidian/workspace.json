@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "db2ba08edea552bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "481949d504c10972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637b80781cc27985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "it/sw/git/git_repo_syncro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7316d7d1b40308f",
+    "type": "split",
+    "children": [
+      {
+        "id": "814ab5c0b39f6d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ee415adc4a259c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6ba5657734b6381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7080712011ad3043",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bfe6b6f71a0c4f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9c4d75a8a6fe02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb64f53850da5fc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "it/sw/git/git_repo_syncro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bd6cd222fc4f9b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "it/sw/git/git_repo_syncro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6baf6f3609c22f19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74f68619c278a2e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "it/sw/git/git_repo_syncro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "637b80781cc27985",
+  "lastOpenFiles": [
+    "it/sw/git/git_intro.md",
+    "it/sigle/sigle.md",
+    "lat_links.md",
+    "casa/lingue/latino/lat_links.md",
+    "casa/lingue/latino"
+  ]
+}

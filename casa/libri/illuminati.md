@@ -1,0 +1,5 @@
+---
+alias: Illuminati
+---
+#illuminati
+
