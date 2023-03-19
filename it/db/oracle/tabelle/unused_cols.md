@@ -1,8 +1,8 @@
 ---
 alias: "Colonne non usate in una tabella"
+tags: oracle_unused_cols, alter_table, oracle_sql, sql #oracle
 ---
 
-#oracle_unused_cols #alter_table #oracle_sql #sql #oracle
 Oracle provides a method to mark columns as _unused_. Unused columns aren’t physically dropped, but are treated as if they were dropped. Unused columns can’t be restored. Select statements don’t retrieve data from columns marked as unused and aren’t displayed when running a `DESCRIBE` table command.
 
 The main advantage of setting a column to UNUSED is to reduce possible high database load when dropping a column from a large table. To overcome this issue, a column can be marked as unused and then be physically dropped later.

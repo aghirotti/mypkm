@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "mycss"
+  ]
 }
