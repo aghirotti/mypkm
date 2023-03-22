@@ -1,7 +1,7 @@
 ---
 alias: Oracle Jobs
+tags: oracle_jobs, oracle, v$session, gv$session
 ---
-#oracle_jobs #oracle 
 
 ### Creazione
 ``` sql
@@ -18,6 +18,24 @@ BEGIN
     DBMS_SCHEDULER.RUN_JOB(job_name => '"GW_CLAIM_STG"."JOB_PKG_LOAD_PDW_MAIN"', USE_CURRENT_SESSION => FALSE);
 END;
 ```
+
+### Abilitare/disbilitare un job
+``` sql
+BEGIN
+    -- Abilitare
+    dbms_scheduler.enable (name=>'"ITSMS"."JOB_FIND_RECLAMI"');
+    dbms_scheduler.enable (name=>'"ITSMS"."JOB_GDPR_MASCHERAMENTO_DATI"');
+    
+    -- Disabilitare
+    dbms_scheduler.disable (name=>'"ITSMS"."JOB_FIND_RECLAMI"'             , force => TRUE);
+    dbms_scheduler.disable (name=>'"ITSMS"."JOB_GDPR_MASCHERAMENTO_DATI "' , force => TRUE);
+END;
+```
+
+
+
+
+
 
 ### Controllo
 Se sappiamo il nome del job possiamo eseguire la seguente query, che é la stessa che viene eseguita da SqlDeveloper; questo strumento permette, in più, di sapere quale statement sql tra i tanti il nostro job sta eseguendo; allo scopo basta selezionare la riga ottenuta da questa query per vedere i dettagli nella finestra sottostante.
