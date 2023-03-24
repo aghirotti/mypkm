@@ -1,0 +1,46 @@
+---
+alias: Il sionismo
+tags: sionismo, ebraismo
+---
+
+> [!Warning] Titolo del callout
+> Contenuti
+
+# Cap. I - Il sionismo
+
+E' molto importante non confondere la natura del sionismo, le sue dimensioni e il suo modo di influenzare l'opinione pubblica mondiali con il movimento politico omonimo che portò alla fondazione dello stato d'Israele nel II dopoguerra.
+L'obiettivo di questo volume é dimostrare come questa ideologia si sia sviluppata e organizzata insieme alle vicende che hanno interessato il popolo ebraico nel corso dei secoli, e non sia solamente il frutto casuale di una convergenza di interessi tra l'elite intellettuale ebraica europea e l'egemonismo statunitense.
+Gli israeliti, nell'arco della loro storia, si comportarono come tutti gli altri poppoli, cercando di sottomettere con la forza i loro vicini e sterminando le nazioni che, a loro dire, stavano usurpando la loro ‘terra promessa’.
+Fondamentale per la loro volontà di potenza e per l’affermazione militare della loro strategia di  conquista sarà senz’altro proprio l’auto-designazione a popolo-eletto, che arriverà a conciliare i diritti di un popolo con la soppressione dei diritti altrui.
+In questo contesto generale la storia del popolo d’Israele non differisce assolutamente da quella degli altri popoli, almeno fino a quando i rabbini, i dottori della legge, non modificarono radicalmente il ‘senso’ della loro visione messianica del mondo imponendo al loro popolo uno status di superiorità e di  primogenitura rispetto a tutti gli altri popoli della terra. Il Sionismo ha come obiettivo apparente il ritorno degli ebrei dispersi nella diaspora nella terra promessa, ma i suoi veri obiettivi sono molto più ampi e necessitano di molte spiegazioni:
+1. Il Sionismo é un movimento e non un partito politico, perciò raggruppa al suo interno persone le cui tendenze culturali e ideologiche li farebbero apparire come acerrimi avversari, solamente per dissimulare la loro reale intenzione di pervenire ad un Governo Unico Mondiale a sovranità ebraica. 
+   Tra gli esempi più evidenti di questa duttilità dei sionisti a qualunque ideologia loro funzionale si noti, in questi ultimi anni, il caso del repubblicano Henry Kissinger e del democratico Zbigniew Brzezinsky. Uno fra i più influenti elementi dell’establishment sionista, Charles Levinson – economista israelita di fama mondiale – poteva alcuni anni or sono tranquillamente scrivere che ‘lo stato, il governo, sono delle astrazioni. Esiste solo un certo numero di individui legati a dei partiti che riflettono le stesse forze dominanti qualunque sia la loro colorazione politica[^1].’
+2. Il Sionismo è un movimento specifico del popolo ebraico e – come tale – è solito adottare forme razziste e esclusiviste. Questo tipo di razzismo si appoggia e trova fondamento essenzialmente sulla Bibbia , anche se le sue decodificazioni e successive espansioni sono state plasmate attraverso la Kabala e il Talmud. E’ un razzismo fondato sul sangue , sull’appartenenza biologica alla comunità ebraica , sul diritto della primogenitura e sulle ragioni della discendenza diretta dal ceppo abramitico. Per l’ebreo il richiamo del sangue è fondamentale, l’attuale stato d’Israele ancora oggi suddivide i propri cittadini in distinte categorie determinate esclusivamente sul fattore del Sangue.
+3. Il Sionismo non desidera affatto che tutti gli ebrei si convertano in cittadini dello stato d’ Israele. Questo ha infatti valore soltanto per gli ebrei indigenti e poveri di quei paesi dell’ Africa e dell’ Asia dove il retaggio della religione mosaica andrebbe comunque scomparendo non essendo sostenuto da adeguate strutture comunitarie e organizzative.
+4. Il Sionismo non vede nello stato d’ Israele nient’ altro che un punto d’ appoggio strategico e funzionale alla sua politica imperialista in uno dei punti piu’ delicati dello scacchiere internazionale. In effetti non si tratta dell’ unico né del primo stato creato dagli ebrei nel corso della storia. Anni prima di emigrare in massa in Palestina infatti vennero prese in considerazione altri territori fra i quali Gibilterra , Malta , l’ Uganda, il Madagascar , l’ Argentina e il Cile. Quest’ ultimo progetto denominato Landinia abbracciava tutta la Patagonia compreso il fiume Chubut , la Terra del Fuoco e le isole Malvinas opportunamente occupate dalla Gran Bretagna per dare una risposta alle aspirazioni del popolo ebraico.
+5. Il Sionismo si propone di estendere maggiormente la sua influenza nella regione mediorientale attraverso la creazione di ‘Eretz Israel’ ( la Grande Israele biblica ) che dovrà estendersi dal fiume Eufrate fino al Nilo
+6. Il Sionismo vuole – in ultima analisi – il dominio planetario, l’ ‘One World’, attraverso l’infiltrazione politica (collocando i suoi elementi nei punti-chiave delle istituzioni di stati e nazioni) e il controllo economico (attraverso le multinazionali e i consigli d’ amministrazione di banche e imprese).
+   L’obbiettivo per raggiungere un Governo Unico Mondiale viene sviluppato con ostinazione e lucidità da almeno tremila anni da l’unico popolo che, da sempre, ha fatto dell’esclusivismo razziale e dell’escatologia messianica fondata sul proprio ruolo di pivot dei destini del mondo le basi della propria missione.
+
+### Il sionismo e la massoneria
+
+Il Sionismo si serve per i suoi fini della Massoneria. La giudaizzazione della Massoneria incominciò all’ inizio del XVIII° secolo con la fondazione della Gran Loggia d’ Inghilterra, anche conosciuta come la ‘Loggia Madre’. Tutti i principali uomini politici , soprattutto primi ministri e presidenti della Gran Bretagna e degli Stati Uniti sono stati affiliati alla Massoneria .
+
+Il Sionismo conta anche su una branca massonica speciale , riservata esclusivamente agli ebrei , il cui nome è Beni Berith , trascritto a volte come B’nai B’rith che in ebraico significa ‘I Figli dell’ Alleanza’. Questa organizzazione si costitui’ negli Stati Uniti a metà del XX° secolo e ad essa aderirono alcuni fra i principali intellettuali di origine ebraica di fama internazionale come ad esempio Albert Einstein o Sigmund Freud.
+
+L’ influenza e l’ onnipresenza del B’ nai B’rith nelle questioni di politica interna di numerosi stati , soprattutto in Occidente , la caratterizzano inoltre come un tipico strumento di pressione sionista incaricato di controllare e eventualmente ‘correggere’ di rotta le decisioni dei vari governi asservendoli alla strategia delle centrali sioniste internazionali.
+
+Inoltre all’ala piu’ radicale dei ‘Figli dell’ Alleanza’ sono affidati compiti di vero e proprio squadrismo militante come avvenuto in Francia dove noti esponenti del cosiddetto Revisionismo Storico , fra questi il prof. Robert Faurisson, sono stati malmenati da picchiatori professionisti annidati all’interno della comunità ebraica.
+
+Uno dei principali successi del B’nai B’rith fu la politica che i suoi esponenti imposero al Vaticano in occasione del Concilio Vaticano II° il quale verrà ricordato come il momento-chiave che sanci’ il passaggio dalla tradizionale posizione anti-ebraica della Chiesa all’ accettazione delle moderne teorie moderniste conseguentemente alle quali si verifico’ il declino spirituale e il ridimensionamento dell’ influenza vaticana nelle società cristiane.
+   
+### Il Sinedrio occulto
+
+Il Sionismo è diretto da un Gran Sinedrio occulto, una autentica istituzione direttiva delle strategie del Sionismo Internazionale (il Kahal Supremo)  il vertice segreto della piramide mondialista. In questo conclave eccezionale si ritrovano i massimi dirigenti della Massoneria internazionale, del B’ nai B’rith, dello stato d’ Israele, dell’ Alleanza Israelitica Universale, del Congresso Ebraico Mondiale, del Kahal di New York, della Banca Rothschild e di diverse imprese multinazionali sioniste.  
+
+Per anni il presidente del Gran Sinedrio del Sionismo Internazionale è stato l’ ebreo americano Bernard Baruch (19 agosto 1870 – 20 giugno 1965), consigliere di tutti gli inquilini della Casa Bianca da Wilson a Kennedy (indipendentemente dal fatto che essi appartenessero al Partito Democratico o a quello Repubblicano) e autentico deus ex machina della politica imperialista degli Stati Uniti d’ America per quasi 40 anni.
+
+Il Gran Sinedrio dell’ Internazionale Sionista è il cuore del potere plutocratico e finanziario che muove le fila della politica mondiale e ne influenza i destini, un’ assise suprema entro la quale sono stabilite le sorti dell’ umanità, i processi economici e i cambiamenti politici, i conflitti e i trattati di pace, la prosperità o la rovina di intere nazioni.
+  
+  [^1]: Vodka Cola, 1978. Il saggio indaga sulle interessate complicità tra i blocchi sovietici e americani durante la guerra fredda, in apparenza avversari ma nei fatti alleati per mantenere lo status quo. Levinson, dati alla mano, ripercorre gli episodi di cooperazione tra USA e URSS, elenca gli interessi finanziari, anche italiani (un capitolo è dedicato ai rapporti Agnelli-PCI), e dimostra come la distensione fosse il risultato non dell'impegno della politica ma di una rete fittissima di rapporti economici. Vodka-Cola delinea un sinistro scenario in cui Commissioni Trilaterali, lobbies finanziarie ed élites politiche tessono trame oscure e inconfessabili.
+  
