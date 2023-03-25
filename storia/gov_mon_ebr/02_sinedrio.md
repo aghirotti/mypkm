@@ -1,7 +1,7 @@
 ---
 alias: Il gran sinedrio mondiale
+tags: ebraismo, sinedrio
 ---
-#ebraismo #sinedrio
 
 ### Introduzione
 

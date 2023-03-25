@@ -1,6 +1,7 @@
 ---
 alias: Sigle
 tags: sigle
+token: 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
 ---
 
 Tabella ordinata sulla colonna SIGLA

@@ -10,13 +10,15 @@
           {
             "id": "860de06b16f4c049",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "it/db/dwh/dwh_conceptd.md",
+                "file": "it/sw/obsidian/obsidian_plugins.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sigle",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "it/db/dwh/dwh_conceptd.md",
+                "file": "it/os/unix/unix_cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "it/db/dwh/dwh_conceptd.md",
+                "file": "it/os/unix/unix_cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "it/db/dwh/dwh_conceptd.md"
+                "file": "it/os/unix/unix_cmd.md"
               }
             }
           },
@@ -164,14 +166,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "860de06b16f4c049",
+  "active": "80ee415adc4a259c",
   "lastOpenFiles": [
-    "it/db/oracle/dd/object_that_use_specific_object.md",
-    "storia/gov_mon_ebr/03_il_purim.md",
-    "storia/gov_mon_ebr/02_sinedrio.md",
-    "storia/gov_mon_ebr/01_sionismo.md",
-    "it/unix/unix_cmd.md",
+    "it/sw/obsidian/obsidian_plugins.md",
+    "it/os/unix/unix_cmd.md",
+    "it/os/unix/unix_cmd.md",
     "varie/sigle/sigle.md",
+    "it/db/oracle/dd/object_that_use_specific_object.md",
+    "it/apple/iphone/iphone_as_webcam.md",
+    "_excalibrain/excalibrain.md",
+    "it/db/oracle/tabelle/calcolo_spazio_occupato.md",
+    "it/sw/vim/vim_howto.md",
+    "casa/condominio/rate_condominio.md",
+    "it/varie/bin_to_decimal.md",
+    "it/sw/obsidian/obsidian_css.md",
+    "it/sw/sw_antivirus.md",
+    "it/sw/obsidian/obsidian_canvas.md",
+    "it/sw/obsidian/come_usare_obsidian.md",
+    "storia/gov_mon_ebr/02_sinedrio.md",
+    "storia/gov_mon_ebr/03_il_purim.md",
+    "storia/gov_mon_ebr/01_sionismo.md",
+    "it/db/dwh/dwh_conceptd.md",
     "_template",
     "varie/varie",
     "storia/varie",
@@ -180,25 +195,12 @@
     "2023-03-19.md",
     "README.md",
     "it/db/oracle/dd/oracle_dd_links.md",
-    "_excalibrain/excalibrain.md",
     "it/db/postgres/psql.md",
     "_excalibrain",
     "it/db/oracle/tabelle/unused_cols.md",
     "it/db/oracle/tabelle/table_privs.md",
     "it/db/postgres/tabelle/pg_unused_cols.md",
-    "it/db/oracle/tabelle/disable_constraints.md",
-    "it/db/oracle/dd/oracle_directories.md",
-    "casa/condominio/rate_condominio.md",
-    "it/db/oracle/tabelle/all_tab_info.md",
-    "it/db/dwh/dwh_conceptd.md",
     "it/db/dwh",
-    "it/db/oracle/dd/oracle_get_ddl.md",
-    "it/db/oracle/dd/ora_sched_jobs.md",
-    "it/sw/git/git_repo_syncro.md",
-    "casa/alimentari/tabella_alfabetica_nomi.md",
-    "it/db/oracle/tabelle/dbms_stats.md",
-    "it/sw/git/git_intro.md",
-    "lat_links.md",
     "casa/lingue/latino"
   ]
 }

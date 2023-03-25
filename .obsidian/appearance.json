@@ -1,8 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#98e6b0",
   "theme": "moonstone",
-  "cssTheme": "Elegance",
+  "cssTheme": "Big Sur Aesthetic",
   "enabledCssSnippets": [
     "mycss"
-  ]
+  ],
+  "interfaceFontFamily": ""
 }

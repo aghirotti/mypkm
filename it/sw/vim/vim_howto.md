@@ -1,14 +1,17 @@
 ---
 alias: Vim Howto
+tags: sw, vim, vim_howto, #vimsession
 ---
-#sw #vim #vim_howto
+## Gestione degli spazi
 
-### Eliminare gli spazi a fine riga
-
+##### Sostituire uno o più spazi con niente
+``` sql
+:%s/\s\s+//g
+```
+##### Eliminare gli spazi a fine riga
 ``` sql
 :%s/\s\+$//
 ```
-
 | Cmd    | Spiegazione                                                                               | 
 | ------ | ----------------------------------------------------------------------------------------- |
 | **:**  | serve per entrare in modalità comando ed                                                  |
@@ -20,15 +23,12 @@ alias: Vim Howto
 | **/**  | delimita la fine del testo da cercare e l'inizio del testo da sostituire a quello cercato |
 | **/**  | delimita la fine del testo da sostituire a quello cercato                                 |
 
-### Sessioni
-#sw #vim #vim_howto #vim_session
-
-#### Crea un file sessione
-``` sql
+## Sessioni
+##### Crea un file sessione
+``` sh
 :mks <path>/mia_sessione.vim
 ```
-
-#### Carica una sessione
-``` sql
+##### Carica una sessione
+``` sh
 :source <path>/mia_sessione.vim
 ```
