@@ -12,15 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-🚀 To get started
-select a document using the search in the top left or
-open a document in another pane.
+Sigle ^2fSn7ZhE
 
-✨ For the best experience enable 'Open in adjacent pane'
-in Excalidraw settings under 'Links and Transclusion'.
-
-⚠ ExcaliBrain may need to wait for DataView to initialize its index.
-This can take up to a few minutes after starting Obsidian. ^RgX0kqIj
+[[varie/sigle/sigle.md]] ^DBgP6l8F
 
 %%
 # Drawing
@@ -31,38 +25,167 @@ This can take up to a few minutes after starting Obsidian. ^RgX0kqIj
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
 	"elements": [
 		{
-			"type": "text",
-			"version": 1,
-			"versionNonce": 834699710,
-			"isDeleted": false,
-			"id": "RgX0kqIj",
-			"fillStyle": "hachure",
+			"id": "DBgP6l8F",
+			"type": "rectangle",
+			"x": -62.734375,
+			"y": -72,
+			"width": 107.890625,
+			"height": 56,
+			"angle": 0,
+			"strokeColor": "#00000000",
+			"backgroundColor": "#C49A13FF",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 55268,
+			"version": 1,
+			"versionNonce": 971876075,
+			"updated": 1679610505616,
+			"isDeleted": false,
+			"groupIds": [
+				"OKzO0VqT"
+			],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "2fSn7ZhE"
+				}
+			],
+			"link": "[[varie/sigle/sigle.md]]",
+			"locked": false
+		},
+		{
+			"text": "Sigle",
+			"fontSize": 30,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"id": "2fSn7ZhE",
+			"type": "text",
+			"x": -52.734375,
+			"y": -62,
+			"width": 87.890625,
+			"height": 36,
 			"angle": 0,
-			"x": 0,
-			"y": 0,
-			"strokeColor": "#ffffffff",
+			"strokeColor": "#000000ff",
 			"backgroundColor": "transparent",
-			"width": 797.197265625,
-			"height": 216,
-			"seed": 47046,
-			"groupIds": [],
-			"roundness": null,
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 65900,
+			"version": 1,
+			"versionNonce": 132487826,
+			"updated": 1679610505616,
+			"isDeleted": false,
+			"groupIds": [
+				"OKzO0VqT"
+			],
 			"boundElements": [],
-			"updated": 1679216105071,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
-			"rawText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian."
+			"containerId": "DBgP6l8F",
+			"originalText": "Sigle",
+			"rawText": "Sigle"
+		},
+		{
+			"id": "jJnOIO9T",
+			"type": "ellipse",
+			"x": -72.734375,
+			"y": -49,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 11313,
+			"version": 1,
+			"versionNonce": 426514305,
+			"updated": 1679610505616,
+			"isDeleted": false,
+			"groupIds": [
+				"OKzO0VqT"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "6DPuja0e",
+			"type": "ellipse",
+			"x": -20,
+			"y": -82,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 58086,
+			"version": 1,
+			"versionNonce": 5977507,
+			"updated": 1679610505616,
+			"isDeleted": false,
+			"groupIds": [
+				"OKzO0VqT"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "3j3F1cJz",
+			"type": "ellipse",
+			"x": 10,
+			"y": -16,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 42939,
+			"version": 1,
+			"versionNonce": 244783797,
+			"updated": 1679610505616,
+			"isDeleted": false,
+			"groupIds": [
+				"OKzO0VqT"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -80,10 +203,10 @@ This can take up to a few minutes after starting Obsidian. ^RgX0kqIj
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 294.780029296875,
-		"scrollY": 436.2906799316406,
+		"scrollX": 125.76409912109375,
+		"scrollY": 120.75647583007813,
 		"zoom": {
-			"value": 1
+			"value": 5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

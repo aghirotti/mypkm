@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "religione/cvii/cvii_menzognsa_giudaica.md",
+                "file": "it/unix/unix_cmd.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "religione/cvii/cvii_menzognsa_giudaica.md",
+                "file": "it/unix/unix_cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "religione/cvii/cvii_menzognsa_giudaica.md",
+                "file": "it/unix/unix_cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "religione/cvii/cvii_menzognsa_giudaica.md"
+                "file": "it/unix/unix_cmd.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "79d214fbdc9c27ff",
   "lastOpenFiles": [
-    "varie/sigle/sigle.md",
     "religione/cvii/cvii_menzognsa_giudaica.md",
+    "varie/sigle/sigle.md",
     "religione/cvii",
     "religione",
     "_template",

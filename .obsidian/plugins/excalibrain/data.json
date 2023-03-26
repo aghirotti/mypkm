@@ -150,7 +150,8 @@
     "it/db/oracle/tabelle/unused_cols.md",
     "it/db/oracle/dd/oracle_dd_links.md",
     "it/db/oracle/sql/comandi/alter_session.md",
-    "it/db/postgres/psql.md"
+    "it/db/postgres/psql.md",
+    "varie/sigle/sigle.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
