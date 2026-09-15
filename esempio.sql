@@ -3,3 +3,6 @@ SELECT sysdate FROM dual;
 
 -- Altra query idiota
 SELECT systimestamp FROM dual;
+
+-- Terza query
+SELECT TIMESTAMO FROM dual;
